@@ -239,7 +239,6 @@ Multiple packages can be installed at the same time, by separating the package n
 
 `conda install flake8 mock funcsigs`
 
-### Leaving the virtualenv when you are done
 
 When you are done working in your virtualenv, you can deactivate it using the following command:
 
@@ -275,7 +274,8 @@ Discussing these is outside the scope of this course. Using either of these tool
 
 
 
-## Footnotes
+## Footnotes last
+## ended here
 
 [1]: the maintainers of conda put together resources for the most recent versions of Python libraries as they get released, but sometimes there may be a short lag.
 
